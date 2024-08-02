@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "my_rpg.h": "c",
+        "string.h": "c",
+        "my.h": "c",
+        "stdbool.h": "c",
+        "math.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}

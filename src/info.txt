@@ -1,0 +1,8 @@
+position.x : 1854
+position.y : 2018
+life_player : 100.000000
+xp_player : 0.000000
+value_life_barre : 0.000000
+attack_player : 10.000000
+state_first_boss : 0.000000
+state_second_boss : 0.000000
